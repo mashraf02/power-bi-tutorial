@@ -90,5 +90,3 @@ powerbi-tutorial/
 ## Author
 
 **Mashraful** — Computer Science, Independent University Bangladesh (IUB)
-
-*Questions or improvements? Open an issue or fork the repo.*
